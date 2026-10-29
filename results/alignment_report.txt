@@ -1,0 +1,52 @@
+SMITH-WATERMAN ALIGNMENT REPORT
+========================================
+Sequence 1: NC_012920.1:5900-6020 Homo sapiens mitochondrion, complete genome
+Sequence 2: NC_001643.1:5900-6020 Pan troglodytes mitochondrion, complete genome
+Length 1: 121
+Length 2: 121
+Scoring matrix: (122, 122)
+Maximum score: 62
+Sequence 1 positions: 1-108
+Sequence 2 positions: 3-121
+Alignment length: 125
+Exact matches: 70
+Percentage identity: 56.00%
+
+Sequence 1: ACTGAT-GT-TCGCCGACCGTTGACTATTCT-CT-ACA-AACC--AC-AAAGAC--ATTGGAACACTATAC-CTA--TTATTCG--GC-GCATGAGCTGGAG-TCCTAGGCACAGCTCTAAGCCT
+Sequence 2: ACTTCTCCTATC-CCTCCCAGT-CCTA-GCTGCTGGCATCACCATACTATTGACAGATCGTAAC-CTCAACACTACCTTCTTCGACCCAGCCGGGGGAGGAGACCCTATTC-TATATC-AACACT
+
+Exact conserved regions:
+ACT | Length: 3 | Seq1: 1-3 | Seq2: 3-5
+T | Length: 1 | Seq1: 6-6 | Seq2: 8-8
+T | Length: 1 | Seq1: 8-8 | Seq2: 11-11
+TC | Length: 2 | Seq1: 9-10 | Seq2: 13-14
+CC | Length: 2 | Seq1: 12-13 | Seq2: 15-16
+CC | Length: 2 | Seq1: 16-17 | Seq2: 19-20
+T | Length: 1 | Seq1: 20-20 | Seq2: 23-23
+CTA | Length: 3 | Seq1: 23-25 | Seq2: 25-27
+CT | Length: 2 | Seq1: 28-29 | Seq2: 29-30
+CT | Length: 2 | Seq1: 30-31 | Seq2: 32-33
+CA | Length: 2 | Seq1: 33-34 | Seq2: 36-37
+ACC | Length: 3 | Seq1: 36-38 | Seq2: 40-42
+AC | Length: 2 | Seq1: 39-40 | Seq2: 45-46
+A | Length: 1 | Seq1: 41-41 | Seq2: 48-48
+GAC | Length: 3 | Seq1: 44-46 | Seq2: 51-53
+AT | Length: 2 | Seq1: 47-48 | Seq2: 56-57
+G | Length: 1 | Seq1: 50-50 | Seq2: 59-59
+AAC | Length: 3 | Seq1: 52-54 | Seq2: 61-63
+CT | Length: 2 | Seq1: 56-57 | Seq2: 64-65
+AC | Length: 2 | Seq1: 60-61 | Seq2: 68-69
+CTA | Length: 3 | Seq1: 62-64 | Seq2: 71-73
+TT | Length: 2 | Seq1: 65-66 | Seq2: 76-77
+TTCG | Length: 4 | Seq1: 68-71 | Seq2: 79-82
+C | Length: 1 | Seq1: 73-73 | Seq2: 86-86
+GC | Length: 2 | Seq1: 74-75 | Seq2: 88-89
+G | Length: 1 | Seq1: 78-78 | Seq2: 92-92
+G | Length: 1 | Seq1: 80-80 | Seq2: 94-94
+GGAG | Length: 4 | Seq1: 83-86 | Seq2: 97-100
+CCTA | Length: 4 | Seq1: 88-91 | Seq2: 103-106
+C | Length: 1 | Seq1: 94-94 | Seq2: 109-109
+A | Length: 1 | Seq1: 97-97 | Seq2: 111-111
+TC | Length: 2 | Seq1: 100-101 | Seq2: 114-115
+AA | Length: 2 | Seq1: 103-104 | Seq2: 116-117
+CT | Length: 2 | Seq1: 107-108 | Seq2: 120-121
